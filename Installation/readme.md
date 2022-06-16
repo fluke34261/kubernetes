@@ -1,4 +1,4 @@
-# Step Installation
+# Step Installation ( for Debian OS or Ubuntu )
 
 1. [Turn off swap ( for all machine )](Turn%20off%20swap.md)
 2. [Install container runtime ( for all machine )](Install%20Container%20Runtime.md)
