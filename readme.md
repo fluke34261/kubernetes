@@ -1,5 +1,5 @@
 # Welcome to my Kubernetes Document
 
- - [Installation](installation)
+ - [Installation](Installation)
  - Architecture ( coming soon )
  - [Network](Network)
