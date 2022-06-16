@@ -3,3 +3,4 @@
  - [Installation](Installation)
  - Architecture ( coming soon )
  - [Network](Network)
+ - Storage ( comming soon )
