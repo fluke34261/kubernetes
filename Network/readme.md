@@ -3,4 +3,4 @@
 - ClusterIP
 - Nodeport
 - Loadbalancer
-- [Ingress](Ingress-nginx)
+- [Ingress-nginx](Ingress-nginx)
